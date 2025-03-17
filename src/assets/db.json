@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "indhu.0@gmail.com",
+      "password": "123456",
+      "firstName": "Indhu",
+      "lastName": "K",
+      "location": "India",
+      "mobileNumber": "9876543210",
+      "id": 3
+    },
+    {
+      "email": "rithu.0@gmail.com",
+      "password": "098765",
+      "firstName": "Ritanya",
+      "lastName": "P",
+      "location": "India",
+      "mobileNumber": "9807654321",
+      "id": 4
+    },
+    {
+      "email": "navies.0@gmail.com",
+      "password": "123456",
+      "firstName": "Navies",
+      "lastName": "Navera",
+      "location": "Tiruppur",
+      "mobileNumber": "1234567890",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "description": "Latest smartphone with 5G",
+      "manufacturer": "Mobile Inc",
+      "manufacturingDate": "2024-02-15",
+      "price": 800,
+      "quantity": 25
+    },
+    {
+      "name": "Smart TV",
+      "description": "Android Smart Tv ",
+      "manufacturer": "Smart  Inc",
+      "price": 30000,
+      "quantity": 20,
+      "id": 1742022031997
+    }
+  ]
+}
